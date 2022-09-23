@@ -24,7 +24,7 @@ const Header = () => {
                       <p>1,600 people requested access a visit in last 24 hours</p>
                 </div>
           </div>
-          <div data-aos='zoom-in' data-aos-duration='1000' className='gpt3__header-image'>
+          <div className='gpt3__header-image'>
                       <img src={ AI } alt='AI'/>
           </div>
     </div>
